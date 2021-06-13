@@ -1,9 +1,9 @@
 # Teste de hipótese (z-score) sobre tratamento precoce
 
 No dia 06 de Junho de 2021, foi publicada [uma notícia](https://grandeponto.com.br/noticia/com-tratamento-precoce-hospital-de-natal-salva-100-de-vidas-contra-a-covid#.YLzwX9l7KLk.whatsapp) de que um hospital de campanha em Natal/RN
-havia conseguido 100% de suscesso no tratamento de 100 pacientes com Covid ao utilizar o protocolo do "tratamento precoce". A notícia foi repassada em diversas mídias como uma comprovação de que o referido protocolo funciona. Nesse post, nos propomos a fazer um simples teste de hipótese para verificar essa afirmação.
+havia conseguido 100% de sucesso no tratamento de 100 pacientes com Covid ao utilizar o protocolo do "tratamento precoce". A notícia foi repassada em diversas mídias como uma comprovação de que o referido protocolo funciona. Nesse post, nos propomos a fazer um simples teste de hipótese para verificar essa afirmação.
 
-A primeira informação que precisamos verificar é a taxa de letalidade da Covid. Idealmente, deveríamo comparar grupos semelhantes, com controle de faixa etária e comorbidades, por exemplo. Contudo, como essa informação não foi publicada na notícia, vamos agrupar todos os pacientes em um grupo único. 
+A primeira informação que precisamos verificar é a taxa de letalidade da Covid. Idealmente, deveríamos comparar grupos semelhantes, com controle de faixa etária e comorbidades, por exemplo. Contudo, como essa informação não foi publicada na notícia, vamos agrupar todos os pacientes em um grupo único. 
 
 Informações verificadas no site [Our World in Data](https://www.worldometers.info/coronavirus/) no dia 13/06/2021 mostram que o mundo havia registrado um total de 176.551.089 casos de Covid-19, contabilizando um total de 3.813.319 mortes. A divisão do segundo número pelo primeiro sugere uma proporção de mortes $p$:  
 
